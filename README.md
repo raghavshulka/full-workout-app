@@ -1,5 +1,5 @@
-#  Gym 
-
+#  Gym
+Hi i am himanshu,
 Welcome to  Gym! This project is a fitness application built using React.js and RapidAPIs. With Golds Gym, you can browse through a vast collection of over 2000+ exercises, search for specific exercises, filter them by body parts, and get detailed information about each exercise. Additionally, you can watch instructional videos fetched from the YouTube Search and Download API and receive recommendations for similar exercises.
 
 ## Table of Contents
@@ -20,9 +20,7 @@ Golds Gym is a comprehensive fitness application that provides a user-friendly i
 
 ## Demo <a name="demo"></a>
 
-![golds-gym](https://github.com/TomarJatin/golds-gym/assets/91650461/2dcc979e-fa9f-4e5f-a4c6-626a57959a7f)
-
-
+![gym](https://github.com/raghavshulka/full-workout-app.git)
 
 ## Features <a name="features"></a>
 
@@ -44,55 +42,9 @@ To set up the project locally, please follow the steps below:
 
 1. Clone the repository:
 
-`git clone https://github.com/your-username/golds-gym.git`
-
-
+'https://github.com/raghavshulka/full-workout-app.git'
 2. Install the dependencies:
 
-`cd golds-gym`
-`npm install`
+```bash
+npm install
 
-
-## Running the Application <a name="running-the-application"></a>
-
-To start the development server, run the following command:
-
-`npm start`
-
-
-The application will be accessible at `http://localhost:3000`.
-
-## API Configuration <a name="api-configuration"></a>
-
-This project utilizes the following RapidAPIs:
-
-- ExerciseDB: A database of exercises and related information.
-- YouTube Search: An API to search for YouTube videos related to specific exercises.
-- YouTube Download: An API to fetch YouTube video URLs for embedding or downloading.
-
-To configure the APIs, follow these steps:
-
-1. Sign up for a RapidAPI account at [https://rapidapi.com/](https://rapidapi.com/).
-
-2. Subscribe to the following APIs:
-   - ExerciseDB
-   - YouTube Search
-   - YouTube Download
-
-3. Obtain API keys for each subscribed API.
-
-4. Create a `.env` file in the root directory of the project.
-
-5. Add the following environment variables to the `.env` file:
-
-REACT_APP_RAPID_API_KEY='Your API Key Here'
-
-## Contributing <a name="license"></a>
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request to this repository.
-
-Before contributing, please familiarize yourself with the [contribution guidelines](CONTRIBUTING.md).
-
-## License <a name="project-overview"></a>
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of this license.
