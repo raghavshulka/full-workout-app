@@ -1,6 +1,6 @@
-# Golds Gym
+#  Gym 
 
-Welcome to Golds Gym! This project is a fitness application built using React.js and RapidAPIs. With Golds Gym, you can browse through a vast collection of over 2000+ exercises, search for specific exercises, filter them by body parts, and get detailed information about each exercise. Additionally, you can watch instructional videos fetched from the YouTube Search and Download API and receive recommendations for similar exercises.
+Welcome to  Gym! This project is a fitness application built using React.js and RapidAPIs. With Golds Gym, you can browse through a vast collection of over 2000+ exercises, search for specific exercises, filter them by body parts, and get detailed information about each exercise. Additionally, you can watch instructional videos fetched from the YouTube Search and Download API and receive recommendations for similar exercises.
 
 ## Table of Contents
 
